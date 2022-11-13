@@ -15,4 +15,5 @@
 - 🌱 I’m currently learning Backend
 - 👯 I’m looking to collaborate on Blockchain dev
 - 💬 Ask me about HTML CSS Blockchain dev, sceurity 
-- 📫 How to reach me: kimewanggg@gmail.com
+- 📫 How to reach me: kimewanggg@gmail.com  </br>
+[twitter](https://twitter.com/classiceveryman)
