@@ -19,5 +19,3 @@
 [twitter](https://twitter.com/classiceveryman)
 
 
-This fork is worth it
-Trust me sleep is the medicine
